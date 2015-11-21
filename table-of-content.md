@@ -10,11 +10,11 @@ permalink: /table-of-content/
 
 [Start With A Blog]({% post_url 2015-11-18-first-meteor-app-with-blog %}) 
 
-<!-- [Meteor Directory Structure]()  -->
+[Directory Structure]({% post_url 2015-11-20-meteor-directory-structure %}) 
 
 ### Templates
 
-[View Template]({% post_url 2015-11-19-some-static-pages %}) 
+[View Template]({% post_url 2015-11-19-view-template %}) 
 
 <!-- [Event handling]()  -->
 
