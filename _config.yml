@@ -9,7 +9,7 @@
 title: Learn Meteor With Dan
 email: danielgq.chong@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Follow me as I learn how to make a full featured meteor site will mobile apps. 
+  Follow me as I learn how to make a full featured meteor site with mobile apps. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.stillpig.com" # the base hostname & protocol for your site
 twitter_username: hiaw

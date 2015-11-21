@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "First Meteor app With Blog"
-date:   2015-11-18 20:51:40 +1300
-categories: jekyll update
+date: 2015-11-18
+tags: ['meteorblog']
 ---
 [Meteor][meteor] is a pretty awesome platform for developing web and mobile application. Here's a quick start to have a blog running on Meteor. 
 
