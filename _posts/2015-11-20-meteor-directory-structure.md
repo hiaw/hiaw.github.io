@@ -18,11 +18,11 @@ There is no conventional file structure for meteor but the following is a good g
       footer.html
       layout.html
       layout.js
-    /plan
-      add_plan.html
-      edit_plan.html
-      list_plans.html
-      plan.js
+    /plan               # This is just for example
+      add_plan.html     
+      edit_plan.html    
+      list_plans.html   
+      plan.js           
     ...
   /style
 /server
@@ -36,7 +36,7 @@ There is no conventional file structure for meteor but the following is a good g
 ### Client
 Any files here are only served to the client. This is a good place to keep your HTML, CSS, and UI-related JavaScript code. I put the `layout`, `navbar` and `footer` in the `_partial` folder because these appears in almost all meteor prpjects. There's also a `layout.js` file which we use to put helper functions for `layout.html`. 
 
-The plan has a seperate folder because I wanted to put all plans related html and javascript files in a neat folder. 
+The `plan` is just an example folder. It is a seperate folder because I wanted to put all plans related html and javascript files in a neat folder. 
 
 I also prefer to put css files in separate folder but it's not necessary.
 

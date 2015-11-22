@@ -12,6 +12,8 @@ permalink: /table-of-content/
 
 [Directory Structure]({% post_url 2015-11-20-meteor-directory-structure %}) 
 
+[Create Some Static Pages]({% post_url 2015-11-22-create-some-static-pages %}) 
+
 ### Templates
 
 [View Template]({% post_url 2015-11-19-view-template %}) 
@@ -26,9 +28,9 @@ permalink: /table-of-content/
 
 <!-- [Custom Login system]()  -->
 
-<!-- ### Routing -->
+### Routing
 
-<!-- [Simple Routing]()  -->
+<!-- [Iron Router]({% post_url  %})  -->
 
 <!-- [Routing with Data]() -->
 
