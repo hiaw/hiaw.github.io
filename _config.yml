@@ -1,19 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Learn Meteor With Dan
-email: danielgq.chong@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Follow me as I learn how to make a full featured meteor site with mobile apps. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.stillpig.com" # the base hostname & protocol for your site
-twitter_username: hiaw
-github_username:  hiaw
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hiaw.github.io" # the base hostname & protocol for your site
+
+author:
+  fullname: Daniel Chong
+  googleplus: https://www.google.com/+MotaquillahMaddane
+  github: hiaw
+  twitter: hiaw
+  email: danielgq.chong@gmail.com
+  disqus: disqus_DRCTnb7oY8
+
+google_analytics: 'UA-70443160-1'
 
 # Build settings
 markdown: kramdown

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meteor Directory Structure
-categories: []
+categories: [meteor]
 tags: []
 published: True
 date: 2015-11-20

@@ -70,7 +70,7 @@ Another directory that is usually hidden is the .meteor directory. In here are w
 
 "meteor add" is the command to add packages to your app. Below are the packages you added and a brief description on what they do.
 
-{% highlight yaml%}
+{% highlight bash%}
 iron:router         Routing specifically designed for Meteor
 accounts-ui         Simple templates to add login widgets to an app
 accounts-password   Password support for accounts

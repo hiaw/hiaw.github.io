@@ -1,5 +1,5 @@
 .PageNavigation {
-  font-size: 14px;
+  font-size: 24px;
   display: block;
   width: auto;
   overflow: hidden;
@@ -14,4 +14,8 @@
 
 .PageNavigation .next {
   text-align: right;
+}
+
+.highlighter-rouge {
+  background: #eef;
 }
