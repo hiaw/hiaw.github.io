@@ -1,0 +1,17 @@
+---
+layout: page
+title: Chronological List
+subtitle: Follow the blog from day 1
+---
+
+<ul class="list-posts">
+    {% for post in site.posts reversed %}
+        <li class="post-chrono-row">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <span class="post-chrono-date">{{ post.date | date: "%d %b %Y" }}</span>
+                <span class="post-chrono-title">{{ post.title }}</span>
+          
+            </a>
+        </li>
+    {% endfor %}
+</ul>

@@ -9,4 +9,4 @@ Join me and learn meteor together.
 
 ## About Me
 
-\#hiaw Medical physicist turn IT entrepreneur
+Medical physicist turn IT entrepreneur

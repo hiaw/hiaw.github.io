@@ -8,7 +8,7 @@ date: 2015-11-22
 
 ---
 
-In previous two posts we had a look at [view template]({% post_url 2015-11-19-view-template %})  and iron:router. Now let's use those knowledge and create some static pages. 
+In previous two posts we had a look at [view template]({% post_url 2015-11-19-view-template %}) and [iron:router]({% post_url 2015-11-21-ironrouter %}). Now let's use those knowledge and create some static pages. 
 
 ##Procedure
 
@@ -45,7 +45,7 @@ Now create `client/template/home/home.html` with the following content.
 <template name="home">
     <h1>Home page</h1>
     <p>This is the home page.</p>
-    <a href="about">About</a>
+    <a href="{{pathFor about}}">About</a>
 </template>
 {% endraw %}
 {% endhighlight %}

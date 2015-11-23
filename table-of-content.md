@@ -30,7 +30,7 @@ permalink: /table-of-content/
 
 ### Routing
 
-<!-- [Iron Router]({% post_url  %})  -->
+[Iron Router]({% post_url 2015-11-21-ironrouter %}) 
 
 <!-- [Routing with Data]() -->
 
