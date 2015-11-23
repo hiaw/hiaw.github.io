@@ -45,7 +45,9 @@ Now create `client/template/home/home.html` with the following content.
 <template name="home">
     <h1>Home page</h1>
     <p>This is the home page.</p>
-    <a href="{{pathFor about}}">About</a>
+    <a href="{{pathFor 'about'}}">About</a><br>
+  <a href="/blog">Blog</a><br>
+  <a href="/admin/blog">Blog Admin</a><br>
 </template>
 {% endraw %}
 {% endhighlight %}
@@ -59,7 +61,7 @@ Now create `client/template/home/home.html` with the following content.
 </body>
 
 <template name="layout">
-    {{> loginButton}}
+    {{> loginButtons}}
     {{> yield}}
 </template>
 {% endraw %}

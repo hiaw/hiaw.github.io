@@ -36,7 +36,9 @@ permalink: /table-of-content/
 
 <!-- [Sessions]()  -->
 
-<!-- ### Database -->
+### Database
+
+[Create some data]({% post_url 2015-11-23-create-some-data %}) 
 
 <!-- [Client side database verification]()  -->
 
