@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Meteor app With Blog"
-date: 2015-11-18
+date: 2015-10-18
 tags: ['meteorblog']
 ---
 [Meteor][meteor] is a pretty awesome platform for developing web and mobile application. Here's a quick start to have a blog running on Meteor. 

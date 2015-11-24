@@ -4,7 +4,7 @@ title: Adding Navigation Bar
 categories: []
 tags: []
 published: True
-date: 2015-11-24
+date: 2015-10-24
 
 ---
 

@@ -19,3 +19,6 @@ google_analytics: 'UA-70443160-1'
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap

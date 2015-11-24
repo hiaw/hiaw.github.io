@@ -4,7 +4,7 @@ title: Meteor Directory Structure
 categories: [meteor]
 tags: []
 published: True
-date: 2015-11-20
+date: 2015-10-20
 
 ---
 

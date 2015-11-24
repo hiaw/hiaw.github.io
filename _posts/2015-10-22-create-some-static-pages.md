@@ -4,11 +4,11 @@ title: Create Some Static Pages
 categories: []
 tags: []
 published: True
-date: 2015-11-22
+date: 2015-10-22
 
 ---
 
-In previous two posts we had a look at [view template]({% post_url 2015-11-19-view-template %}) and [iron:router]({% post_url 2015-11-21-ironrouter %}). Now let's use those knowledge and create some static pages. 
+In previous two posts we had a look at [view template]({% post_url 2015-10-19-view-template %}) and [iron:router]({% post_url 2015-10-21-ironrouter %}). Now let's use those knowledge and create some static pages. 
 
 ##Procedure
 
@@ -20,7 +20,7 @@ meteorblog.js
 meteorblog.css
 {% endhighlight %}
 
-files and we will be creating the directory structure as described in [Meteor Directory Structure]({% post_url 2015-11-20-meteor-directory-structure %}).
+files and we will be creating the directory structure as described in [Meteor Directory Structure]({% post_url 2015-10-20-meteor-directory-structure %}).
 
 Then in `lib/router.js`, add the following code
 

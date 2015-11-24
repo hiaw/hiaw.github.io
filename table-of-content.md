@@ -8,19 +8,19 @@ permalink: /table-of-content/
 
 ### Beginner
 
-[Start With A Blog]({% post_url 2015-11-18-first-meteor-app-with-blog %}) 
+[Start With A Blog]({% post_url 2015-10-18-first-meteor-app-with-blog %}) 
 
-[Directory Structure]({% post_url 2015-11-20-meteor-directory-structure %}) 
+[Directory Structure]({% post_url 2015-10-20-meteor-directory-structure %}) 
 
-[Create Some Static Pages]({% post_url 2015-11-22-create-some-static-pages %}) 
+[Create Some Static Pages]({% post_url 2015-10-22-create-some-static-pages %}) 
 
-[Adding Navigation Bar]({% post_url 2015-11-24-adding-navigation-bar %}) 
+[Adding Navigation Bar]({% post_url 2015-10-24-adding-navigation-bar %}) 
 
 ### Templates
 
-[View Template]({% post_url 2015-11-19-view-template %}) 
+[View Template]({% post_url 2015-10-19-view-template %}) 
 
-<!-- [Event handling]()  -->
+[Event handling through form]({% post_url 2015-10-25-event-handling-through-form %}) 
 
 <!-- [Helper methods]()  -->
 
@@ -32,7 +32,7 @@ permalink: /table-of-content/
 
 ### Routing
 
-[Iron Router]({% post_url 2015-11-21-ironrouter %}) 
+[Iron Router]({% post_url 2015-10-21-ironrouter %}) 
 
 <!-- [Routing with Data]() -->
 
@@ -40,7 +40,7 @@ permalink: /table-of-content/
 
 ### Database
 
-[Create some data]({% post_url 2015-11-23-create-some-data %}) 
+[Create some data]({% post_url 2015-10-23-create-some-data %}) 
 
 <!-- [Client side database verification]()  -->
 

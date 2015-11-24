@@ -4,7 +4,7 @@ title: Create some data
 categories: []
 tags: []
 published: True
-date: 2015-11-23
+date: 2015-10-23
 
 ---
 
@@ -88,7 +88,7 @@ plan :{
 
 ### Displaying on home page
 
-Checkout the [View Template]({% post_url 2015-11-19-view-template %}) for meanings the `{% raw %}{{ }}{% endraw %}` in the code. 
+Checkout the [View Template]({% post_url 2015-10-19-view-template %}) for meanings the `{% raw %}{{ }}{% endraw %}` in the code. 
 
 ### Serving data using router
 

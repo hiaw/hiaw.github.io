@@ -3,7 +3,7 @@ layout: post
 title: View Template
 categories: []
 tags: ['meteorblog']
-date: 2015-11-19
+date: 2015-10-19
 
 ---
 
