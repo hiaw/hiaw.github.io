@@ -14,6 +14,8 @@ permalink: /table-of-content/
 
 [Create Some Static Pages]({% post_url 2015-11-22-create-some-static-pages %}) 
 
+[Adding Navigation Bar]({% post_url 2015-11-24-adding-navigation-bar %}) 
+
 ### Templates
 
 [View Template]({% post_url 2015-11-19-view-template %}) 
